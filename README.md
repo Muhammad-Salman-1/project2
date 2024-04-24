@@ -1,2 +1,2 @@
 # Project2
-this repo was created from local machine.
+This Project was created from local machine.
